@@ -1,18 +1,40 @@
-hues  # Логгирование с указанием времени и цвета
-
-aiohttp # Асинхронные HTTP запросы
-peewee # Запросы к БД
-
-aiomysql # Асинхронные запросы к БД
-aiopg # Асинхронные запросы к БД
-peewee_async # Асинхронные запросы к БД
-
-captcha_solver  # Решение Captcha
-
-langdetect  # Определение языка в плагине озвучивания текста
-gTTS  # Озвучивание текста через Google TTS
-
-Pillow  # Работа с изображениями
-
-xmltodict  # Работа с XML
-chatterbot # Чат-бот
+beautifulsoup4==4.8.1
+bs4==0.0.1
+certifi==2019.9.11
+chardet==3.0.4
+commander==0.2.3
+cycler==0.10.0
+decorator==4.4.0
+dj-database-url==0.5.0
+Django==2.2.7
+django-heroku==0.3.1
+gunicorn==20.0.0
+hues==0.2.2
+idna==2.8
+joblib==0.14.0
+kiwisolver==1.1.0
+matplotlib==3.1.1
+networkx==2.3
+numpy==1.17.2
+peewee==2.10.2
+peewee-async==0.5.12
+pick==0.6.4
+Pillow==2.8.2
+psycopg2==2.8.4
+pyparsing==2.4.2
+python-commander==0.1.1
+python-dateutil==2.8.0
+pytz==2019.3
+PyYAML==5.1.2
+requests==2.22.0
+scikit-fuzzy==0.4.1
+scikit-learn==0.21.3
+scipy==1.3.1
+six==1.12.0
+sklearn==0.0
+soupsieve==1.9.5
+sqlparse==0.3.0
+urllib3==1.25.6
+vk==2.0.2
+vk-api==11.5.1
+whitenoise==4.1.4
