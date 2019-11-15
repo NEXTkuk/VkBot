@@ -58,7 +58,7 @@ CHECK_FORWARDED_MESSAGES = True
 CHECK_FORWARDED_MESSAGES_ALL = True
 
 # Данные для базы данных PostgreSQL или MySQL
-DATABASE_SETTINGS = ("DATABASE NAME", "HOST", PORT, "USER", "PASSWORD")
+DATABASE_SETTINGS = ("d6gdmd1oh1l5lm", "ec2-54-221-214-3.compute-1.amazonaws.com", 5432, "vhypkrmpkooodt", "9f1561ce944aa776ffa585fc6d83df06fe094af436222ec626bce2e8a1b38c27")
 DATABASE_SETTINGS = ()
 DATABASE_DRIVER = "postgresql"  #  Может принимать значения: mysql, postgresql
 DATABASE_CHARSET = 'utf8mb4'  # utf8mb4, latin1 и т.д.
