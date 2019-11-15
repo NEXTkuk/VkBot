@@ -19,7 +19,7 @@ numpy==1.17.2
 peewee==2.10.2
 peewee-async==0.5.12
 pick==0.6.4
-Pillow==2.8.2
+Pillow==6.2.0
 psycopg2==2.8.4
 pyparsing==2.4.2
 python-commander==0.1.1
